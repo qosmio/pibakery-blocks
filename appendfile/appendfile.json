@@ -8,6 +8,10 @@
 	"category": "setting",
 	"shortDescription":"Append text to a file to the pi",
 	"longDescription":"Append text to the specified file using the input parameters specified",
+	"supportedOperatingSystems": [
+		"raspbian-pibakery.img",
+		"raspbian-lite-pibakery.img"
+	],
 	"args": [
 		{
 			"type": "text",
