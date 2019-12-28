@@ -1,6 +1,6 @@
 {
   "version": 3.7,
-  "compressedMD5": "2546b2246d31ab686b64ceb37f19eb63",
+  "compressedMD5": "",
   "downloadUrl": "https://github.com/qosmio/pibakery-blocks/releases/download/v0.3.7/pibakery-blocks.zip",
   "loadOrder": [
     "vncenable",
